@@ -1,1 +1,1 @@
-# tic-tac-toe web application
+# Basic tic-tac-toe web application
